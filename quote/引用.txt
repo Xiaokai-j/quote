@@ -1,0 +1,28 @@
+
+一、
+www.swiper.com.cn ----------------------------------------------------中文官网   ，轮播图
+http://www.jq22.com/chm/jquery/remove.html-----------------------jq查阅地址
+
+二、这些插件也是依赖于JQuery 来完成的，所以必须要先引入JQuery 
+http：www.jq22.com/  -------------------------------------------------JQuery 插件库：
+Jhttp：www。htmleaf.com/  -------------------------------------------Query 之家：
+
+三、Echarts---提供非常多的图标（折线图，柱状图，散点图，饼图，K线图）
+地址：http://www.echartsjs.com/zh/index.html------------------------Echarts插件
+下载地址：https://github.com/apache/incubator-echarts/tree/4.5.0
+下载完进入  dist/echarts.min.js
+
+四、http://jq22.com/
+
+五、Ajax接口文档地址：
+https://www.showdoc.cc/ajaxapi?page_id=3753725218157843)
+
+六、nodejs模块----- 核心模块
+全部模块的源代码       https://github.com/nodejs/node/tree/master/lib
+
+七、# 核心模块
+ 官网文档 https://nodejs.org/dist/latest-v10.x/docs/api/
+ 中文文档 http://nodejs.cn/api/
+
+八，nodejs中的第三方模块
+https：//www.npmjs.com
